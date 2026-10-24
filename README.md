@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sijey-CJAA/sijey-CJAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>WASSUP</h1>
 
-Here are some ideas to get you started:
+  <p>
+    BSIT at PUP STC<br>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Profile Views Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sijey-CJAA&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+
+  ---
+
+  ### 📊 GitHub Stats
+
+  <!-- Streak Stats Card matching GitHub dark theme -->
+  <img src="https://streak-stats.demolab.com?user=sijey-CJAA&theme=dark&border=00FF66&stroke=00FF66&hide_border=false" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- Overall GitHub Activity Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sijey-CJAA&show_icons=true&theme=dark&border_color=00FF66&hide_border=false&count_private=true" alt="GitHub Stats" />
+
+  <br><br>
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijey-CJAA&layout=compact&theme=dark&border_color=00FF66&hide_border=false" alt="Top Languages" />
+
+</div>
