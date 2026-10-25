@@ -10,6 +10,4 @@
     <img src="https://img.shields.io/badge/Portfolio-sijey--cjaa.github.io-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <br>
-  <a href="https://sijey-cjaa.github.io/">🌐 https://sijey-cjaa.github.io/</a>
-
 </div>
