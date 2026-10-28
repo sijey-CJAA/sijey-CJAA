@@ -2,10 +2,12 @@
 <div align="center">
   GitHub Stats<br>
 
-  <img
-    src="https://streak-stats.demolab.com?user=sijey-CJAA&background=020617&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=38BDF8&currStreakLabel=FF0000&sideLabels=38BDF8&dates=7DD3FC&border=00FFFF&stroke=00FFFF&border_animation=true&hide_border=false"
-    alt="GitHub Streak"
-  />
+ 
+<img
+  src="https://streak-stats.demolab.com?user=sijey-CJAA&background=020617&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=7DD3FC&border=00FFFF&stroke=00FFFF&border_animation=true&hide_border=false"
+  alt="GitHub Streak"
+/>
+
 
   <br><br>
 
